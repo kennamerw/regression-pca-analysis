@@ -15,6 +15,9 @@ This project explores regression analysis and principal component analysis (PCA)
 - Compared model performance using R² scores.
 - Examined explained variance to evaluate the effects of PCA.
 
+## Dataset
+This project uses `fruits.npz`, which is not included in the repository due to its file size.
+
 ## Skills Demonstrated
 
 - Python programming
